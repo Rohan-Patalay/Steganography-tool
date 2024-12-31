@@ -73,23 +73,22 @@ A Python-based project implementing **image steganography** using the **Least Si
 
 ## 🎨 Screenshots
 
----Main Application Interface
+-**Main Application Interface**
 
----![interface_main](https://github.com/user-attachments/assets/d14b5e99-c468-408c-a097-8f002775ae3d)
+  ![interface_main](https://github.com/user-attachments/assets/d14b5e99-c468-408c-a097-8f002775ae3d)
 
----Image Selection
+-**Image Selection**
 
----![image_selection](https://github.com/user-attachments/assets/d24bcb47-0531-4310-9f92-81a9738545ae)
+  ![image_selection](https://github.com/user-attachments/assets/d24bcb47-0531-4310-9f92-81a9738545ae)
 
----Demonstration
+-**Demonstration**
 
----![test_execution](https://github.com/user-attachments/assets/259ad2a7-4fed-45bc-b279-d971c01cb3ea)
+  ![test_execution](https://github.com/user-attachments/assets/259ad2a7-4fed-45bc-b279-d971c01cb3ea)
 
----![encoding_success_msg](https://github.com/user-attachments/assets/26ef0e34-d79b-4d02-8020-6e053811a832)
+  ![encoding_success_msg](https://github.com/user-attachments/assets/26ef0e34-d79b-4d02-8020-6e053811a832)
 
----![decoding_success_msg](https://github.com/user-attachments/assets/46d189ad-b4f4-4583-8593-d764f2f76dd6)
+  ![decoding_success_msg](https://github.com/user-attachments/assets/46d189ad-b4f4-4583-8593-d764f2f76dd6)
 
----
 
 ## 🛡️ Error Handling
 - Ensures the message size does not exceed the encoding capacity of the image.

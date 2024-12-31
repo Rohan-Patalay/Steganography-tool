@@ -1,6 +1,3 @@
-Here's a structured and visually appealing README file for your GitHub repository:
-
----
 
 # 🖼️ Image-Based Steganography Encoder/Decoder
 

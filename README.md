@@ -116,6 +116,3 @@ This project is for educational purposes only. Please use responsibly.
 ## 🌟 Acknowledgments
 Special thanks to open-source libraries like Pillow and Tkinter that made this project possible.
 
----
-
-Let me know if you'd like specific adjustments or if you’d like me to generate a `requirements.txt` file for the dependencies!

@@ -22,7 +22,7 @@ A Python-based project implementing **image steganography** using the **Least Si
 ---
 
 ## 📁 File Structure
-- `main.py` - Main application script.
+- `steganography_tool.py` - Main application script.
 - `requirements.txt` - Dependencies for the project.
 
 ---
